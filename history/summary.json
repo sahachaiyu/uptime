@@ -4,19 +4,19 @@
     "url": "https://dev-t.dtgo.com",
     "icon": "https://icons.duckduckgo.com/ip3/dev-t.dtgo.com.ico",
     "slug": "dev-t-dtgo",
-    "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
-    "time": 720,
-    "timeDay": 720,
-    "timeWeek": 720,
-    "timeMonth": 720,
-    "timeYear": 720,
+    "status": "up",
+    "uptime": "52.37%",
+    "uptimeDay": "52.37%",
+    "uptimeWeek": "52.37%",
+    "uptimeMonth": "52.37%",
+    "uptimeYear": "52.37%",
+    "time": 789,
+    "timeDay": 789,
+    "timeWeek": 789,
+    "timeMonth": 789,
+    "timeYear": 789,
     "dailyMinutesDown": {
-      "2023-07-06": 41
+      "2023-07-06": 44
     }
   }
 ]
