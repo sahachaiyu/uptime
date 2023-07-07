@@ -1,20 +1,20 @@
 [
   {
-    "name": "DEV-T DTGO",
+    "name": "dev-t.dtgo",
     "url": "https://dev-t.dtgo.com",
     "icon": "https://icons.duckduckgo.com/ip3/dev-t.dtgo.com.ico",
     "slug": "dev-t-dtgo",
     "status": "up",
-    "uptime": "96.18%",
-    "uptimeDay": "96.18%",
-    "uptimeWeek": "96.18%",
-    "uptimeMonth": "96.18%",
-    "uptimeYear": "96.18%",
-    "time": 856,
-    "timeDay": 856,
-    "timeWeek": 856,
-    "timeMonth": 856,
-    "timeYear": 856,
+    "uptime": "96.47%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "96.47%",
+    "uptimeMonth": "96.47%",
+    "uptimeYear": "96.47%",
+    "time": 882,
+    "timeDay": 882,
+    "timeWeek": 882,
+    "timeMonth": 882,
+    "timeYear": 882,
     "dailyMinutesDown": {
       "2023-07-06": 44
     }
