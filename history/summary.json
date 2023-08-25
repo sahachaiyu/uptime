@@ -6,7 +6,7 @@
     "slug": "dev-t-dtgo",
     "status": "up",
     "uptime": "98.64%",
-    "uptimeDay": "98.87%",
+    "uptimeDay": "98.86%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.64%",
@@ -16,6 +16,7 @@
     "timeMonth": 964,
     "timeYear": 959,
     "dailyMinutesDown": {
+      "2023-08-25": 0,
       "2023-08-24": 16,
       "2023-07-18": 225,
       "2023-07-17": 692,
