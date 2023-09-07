@@ -1,7 +1,7 @@
 url: https://dev-t.dtgo.com
-status: up
-code: 200
-responseTime: 966
-lastUpdated: 2023-09-06T23:04:09.660Z
+status: down
+code: 502
+responseTime: 703
+lastUpdated: 2023-09-07T03:31:07.216Z
 startTime: 2023-07-06T08:05:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
