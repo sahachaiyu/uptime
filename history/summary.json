@@ -28,19 +28,19 @@
     "url": "https://staging-v4.dtgo.com",
     "icon": "https://icons.duckduckgo.com/ip3/staging-v4.dtgo.com.ico",
     "slug": "staging-v4-dtgo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 991,
-    "timeDay": 871,
-    "timeWeek": 986,
-    "timeMonth": 989,
-    "timeYear": 991,
+    "time": 993,
+    "timeDay": 953,
+    "timeWeek": 1000,
+    "timeMonth": 993,
+    "timeYear": 993,
     "dailyMinutesDown": {
-      "2023-09-27": 0
+      "2023-09-27": 6
     }
   },
   {
