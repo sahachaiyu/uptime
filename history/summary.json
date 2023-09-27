@@ -11,7 +11,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.17%",
     "time": 940,
-    "timeDay": 839,
+    "timeDay": 888,
     "timeWeek": 912,
     "timeMonth": 923,
     "timeYear": 940,
@@ -28,18 +28,20 @@
     "url": "https://staging-v4.dtgo.com",
     "icon": "https://icons.duckduckgo.com/ip3/staging-v4.dtgo.com.ico",
     "slug": "staging-v4-dtgo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 993,
-    "timeDay": 888,
-    "timeWeek": 1005,
-    "timeMonth": 994,
-    "timeYear": 993,
-    "dailyMinutesDown": {}
+    "time": 991,
+    "timeDay": 871,
+    "timeWeek": 986,
+    "timeMonth": 989,
+    "timeYear": 991,
+    "dailyMinutesDown": {
+      "2023-09-27": 0
+    }
   },
   {
     "name": "city-uat.quinnnova",
