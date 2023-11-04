@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-t.dtgo.com.ico",
     "slug": "dev-t-dtgo",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.31%",
     "uptimeDay": "98.82%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.52%",
-    "uptimeYear": "99.30%",
+    "uptimeYear": "99.31%",
     "time": 941,
     "timeDay": 952,
-    "timeWeek": 914,
+    "timeWeek": 919,
     "timeMonth": 940,
     "timeYear": 941,
     "dailyMinutesDown": {
@@ -40,9 +40,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 991,
-    "timeDay": 1019,
-    "timeWeek": 931,
-    "timeMonth": 990,
+    "timeDay": 1033,
+    "timeWeek": 941,
+    "timeMonth": 991,
     "timeYear": 991,
     "dailyMinutesDown": {
       "2023-11-02": 15
@@ -60,9 +60,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 764,
-    "timeDay": 825,
-    "timeWeek": 765,
-    "timeMonth": 778,
+    "timeDay": 810,
+    "timeWeek": 778,
+    "timeMonth": 780,
     "timeYear": 764,
     "dailyMinutesDown": {}
   }
