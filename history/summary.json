@@ -12,8 +12,8 @@
     "uptimeYear": "99.41%",
     "time": 942,
     "timeDay": 892,
-    "timeWeek": 962,
-    "timeMonth": 939,
+    "timeWeek": 936,
+    "timeMonth": 941,
     "timeYear": 942,
     "dailyMinutesDown": {
       "2023-11-12": 16,
@@ -55,9 +55,9 @@
     "url": "https://city-uat.quinnnova.com",
     "icon": "https://icons.duckduckgo.com/ip3/city-uat.quinnnova.com.ico",
     "slug": "city-uat-quinnnova",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -66,6 +66,8 @@
     "timeWeek": 765,
     "timeMonth": 773,
     "timeYear": 766,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-30": 0
+    }
   }
 ]
