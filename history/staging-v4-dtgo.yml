@@ -1,7 +1,7 @@
 url: https://staging-v4.dtgo.com
-status: down
-code: 502
-responseTime: 778
-lastUpdated: 2024-03-08T13:57:30.229Z
+status: up
+code: 200
+responseTime: 893
+lastUpdated: 2024-03-08T14:09:29.749Z
 startTime: 2023-07-11T10:40:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
